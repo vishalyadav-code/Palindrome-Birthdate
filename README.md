@@ -1,5 +1,15 @@
-# Palindrome-Birthdate
+# Is your Birthday a Palindrome?
 
-Check your birthdate is palindrome or not..!
+## About
+What is palindrome? 
 
-Technologies used: Html, css, and javascript
+A word, phrase, or sequence that reads the same backwards as forwards, e.g. madam or nurses run.
+
+This app will check if your birthday is palindrome or not! Enter your birthday and check it out! 
+
+## Language used
+
+- HTML5
+- CSS3
+- JavaScript
+- Check out the live project - "[Live](https://vishalyadav-code.github.io/Palindrome-Birthdate/)"
